@@ -16,3 +16,10 @@
 1. install python jupyter extention to xcode, then can choose kernel for Jupyter Notebook file
 1. first time run 'pip install -r requirements.txt' failed due to lack of 'egg-' file, but rerun it ,it works and generate folder named '*.egg-info'
 
+## day 7
+1. log system, web page shows
+
+to be clear stuffs,
+1. python basic prog structure
+1. python Import * from * ,what is the library?  got it, library def is simple
+1. notebook, like Jupyter, is a simple way to run python codes, convenient editor and sometimes with rich text
